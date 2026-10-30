@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 64.62,
+    "reason": "Passes both mandatory checks and leads on documented experience, 12-week delivery, and a complete team and approach."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 58.5,
+    "reason": "Passes mandatory checks and scores strongly on warranty and delivery approach, but trails A on experience and overall weighted total."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 51.66,
+    "reason": "Passes mandatory checks with strong experience and warranties, but has a 14-week schedule and less complete documented approach."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Mandatory checks pass, but the completion schedule is unspecified; clarify whether it meets the 16-week limit before scoring and ranking."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The bidder-held Ontario electrical contractor licence is not confirmed; a subcontractor to be confirmed after award does not meet the mandatory requirement."
+  }
+]
